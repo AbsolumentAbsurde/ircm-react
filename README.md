@@ -1,6 +1,6 @@
 Réponse à l'exercice de frontendmentor : https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI
 
-Lien ver ma réponse : https://ircm-react-3j816yb41-ch4tans-projects.vercel.app/
+Lien vers ma réponse : https://ircm-react-3j816yb41-ch4tans-projects.vercel.app/
 
 ======================
 
