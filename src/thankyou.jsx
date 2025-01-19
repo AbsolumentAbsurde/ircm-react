@@ -15,7 +15,7 @@ function ThankYou() {
     return (
         <RateBox>
             <div className="flex justify-center items-center w-48 h-32 relative top-9">
-                <img src="/images/illustration-thank-you.svg" alt="NOT_FOUND"/>
+                <img src="/assets/images/illustration-thank-you.svg" alt="NOT_FOUND"/>
             </div>
             <div className="flex justify-center items-center rounded-3xl h-10 w-48 bg-zinc-900 relative top-16">
                 <p className="text-orange-500">You selected { rate } out of 5</p>
