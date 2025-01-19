@@ -82,7 +82,7 @@ function App() {
   return (
     <RateBox>
       <StarBox>
-        <img src="/images/icon-star.svg" alt="NOT FOUND" className='w-5 h-5'/>
+        <img src="/assets/images/icon-star.svg" alt="NOT FOUND" className='w-5 h-5'/>
       </StarBox>
       <CoreBox>
         <h1 className='text-4xl text-yellow-50'>How did we do?</h1>
